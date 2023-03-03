@@ -1,0 +1,7 @@
+E:\Project\gitkeepmaker\gitkeepmaker\bin\Debug\gitkeepmaker.exe.config
+E:\Project\gitkeepmaker\gitkeepmaker\bin\Debug\gitkeepmaker.exe
+E:\Project\gitkeepmaker\gitkeepmaker\bin\Debug\gitkeepmaker.pdb
+E:\Project\gitkeepmaker\gitkeepmaker\obj\Debug\gitkeepmaker.csprojAssemblyReference.cache
+E:\Project\gitkeepmaker\gitkeepmaker\obj\Debug\gitkeepmaker.csproj.CoreCompileInputs.cache
+E:\Project\gitkeepmaker\gitkeepmaker\obj\Debug\gitkeepmaker.exe
+E:\Project\gitkeepmaker\gitkeepmaker\obj\Debug\gitkeepmaker.pdb
